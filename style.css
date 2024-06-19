@@ -16,16 +16,16 @@ margin-right: 20%;
 
 .p2{font-size: 170%;
 border-width: 15px;
-border-style: groove;
+border-style: double;
 margin-left: 50%;
 }
-.p3{border-width: 195px;
+.p3{border-width: 15px;
 border-style:outset;
 margin-right: 78%;
 text-align: center;
 margin-left: 20%;
 }
-.p4{border-width: 165px;
+.p4{border-width: 16px;
     border-style:double;
     margin-right: 70%;
     text-align: center;
